@@ -46,6 +46,3 @@ An introductory project to I/O redirections and special characters in BASH.
   * Order by number of requests, most active host or IP at the top
   * Not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`
 
-###Authors
-Fesus Rocuts <https://github.com/fesusrocuts>
-
